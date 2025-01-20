@@ -1,0 +1,9 @@
+{
+  "name": "example",
+  "packageManager": "yarn@4.5.1",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.7"
+  },
+  "scripts": {}
+}
